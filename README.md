@@ -141,6 +141,7 @@ Les derniers dossiers sont aussi des dossiers générés automatiquement à la c
 # Démarrer l'application
   
 Tout d'abord, il faut ouvrir un terminal sur Visual Studio et se placer dans le dossier où se trouve l'application grâce à la commande "cd".
+Ensuite il faut entrer la commande "npm install" afin d'installer les différents nodes modules nécessaires au lancement de l'application ainsi que : "npm install --global expo-cli" afin d'installer expo.
 Ensuite il faut entrer la commande "npm start" afin de lancer le programme dans un serveur local
   
 ![image](https://user-images.githubusercontent.com/94694942/150781397-80286ace-513e-4d36-a18d-f302c52e9318.png)
